@@ -1,0 +1,15 @@
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\bin\Release\net6.0\AI_Assignment_version2.exe
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\bin\Release\net6.0\AI_Assignment_version2.deps.json
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\bin\Release\net6.0\AI_Assignment_version2.runtimeconfig.json
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\bin\Release\net6.0\AI_Assignment_version2.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\bin\Release\net6.0\AI_Assignment_version2.pdb
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\obj\Release\net6.0\AI_Assignment_version2.csproj.AssemblyReference.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\obj\Release\net6.0\AI_Assignment_version2.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\obj\Release\net6.0\AI_Assignment_version2.AssemblyInfoInputs.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\obj\Release\net6.0\AI_Assignment_version2.AssemblyInfo.cs
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\obj\Release\net6.0\AI_Assignment_version2.csproj.CoreCompileInputs.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\obj\Release\net6.0\AI_Assignment_version2.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\obj\Release\net6.0\refint\AI_Assignment_version2.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\obj\Release\net6.0\AI_Assignment_version2.pdb
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\obj\Release\net6.0\AI_Assignment_version2.genruntimeconfig.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_version2\obj\Release\net6.0\ref\AI_Assignment_version2.dll

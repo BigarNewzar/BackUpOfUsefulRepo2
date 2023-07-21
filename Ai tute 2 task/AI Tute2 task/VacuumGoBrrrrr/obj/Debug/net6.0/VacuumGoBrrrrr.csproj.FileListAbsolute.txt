@@ -1,0 +1,15 @@
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\bin\Debug\net6.0\VacuumGoBrrrrr.exe
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\bin\Debug\net6.0\VacuumGoBrrrrr.deps.json
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\bin\Debug\net6.0\VacuumGoBrrrrr.runtimeconfig.json
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\bin\Debug\net6.0\VacuumGoBrrrrr.dll
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\bin\Debug\net6.0\VacuumGoBrrrrr.pdb
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\obj\Debug\net6.0\VacuumGoBrrrrr.csproj.AssemblyReference.cache
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\obj\Debug\net6.0\VacuumGoBrrrrr.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\obj\Debug\net6.0\VacuumGoBrrrrr.AssemblyInfoInputs.cache
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\obj\Debug\net6.0\VacuumGoBrrrrr.AssemblyInfo.cs
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\obj\Debug\net6.0\VacuumGoBrrrrr.csproj.CoreCompileInputs.cache
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\obj\Debug\net6.0\VacuumGoBrrrrr.dll
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\obj\Debug\net6.0\refint\VacuumGoBrrrrr.dll
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\obj\Debug\net6.0\VacuumGoBrrrrr.pdb
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\obj\Debug\net6.0\VacuumGoBrrrrr.genruntimeconfig.cache
+D:\visual stuido 2022 repo\Ai tute 2 task\AI Tute2 task\VacuumGoBrrrrr\obj\Debug\net6.0\ref\VacuumGoBrrrrr.dll

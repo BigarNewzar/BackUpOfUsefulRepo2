@@ -1,0 +1,15 @@
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\bin\Debug\net6.0\TestMapMaker.exe
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\bin\Debug\net6.0\TestMapMaker.deps.json
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\bin\Debug\net6.0\TestMapMaker.runtimeconfig.json
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\bin\Debug\net6.0\TestMapMaker.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\bin\Debug\net6.0\TestMapMaker.pdb
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\obj\Debug\net6.0\TestMapMaker.csproj.AssemblyReference.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\obj\Debug\net6.0\TestMapMaker.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\obj\Debug\net6.0\TestMapMaker.AssemblyInfoInputs.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\obj\Debug\net6.0\TestMapMaker.AssemblyInfo.cs
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\obj\Debug\net6.0\TestMapMaker.csproj.CoreCompileInputs.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\obj\Debug\net6.0\TestMapMaker.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\obj\Debug\net6.0\refint\TestMapMaker.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\obj\Debug\net6.0\TestMapMaker.pdb
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\obj\Debug\net6.0\TestMapMaker.genruntimeconfig.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\TestMapMaker\obj\Debug\net6.0\ref\TestMapMaker.dll

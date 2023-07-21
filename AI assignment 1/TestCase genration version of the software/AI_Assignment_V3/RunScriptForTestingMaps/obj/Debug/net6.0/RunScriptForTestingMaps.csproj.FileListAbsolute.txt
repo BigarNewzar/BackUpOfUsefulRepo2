@@ -1,0 +1,15 @@
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\bin\Debug\net6.0\RunScriptForTestingMaps.exe
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\bin\Debug\net6.0\RunScriptForTestingMaps.deps.json
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\bin\Debug\net6.0\RunScriptForTestingMaps.runtimeconfig.json
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\bin\Debug\net6.0\RunScriptForTestingMaps.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\bin\Debug\net6.0\RunScriptForTestingMaps.pdb
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\obj\Debug\net6.0\RunScriptForTestingMaps.csproj.AssemblyReference.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\obj\Debug\net6.0\RunScriptForTestingMaps.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\obj\Debug\net6.0\RunScriptForTestingMaps.AssemblyInfoInputs.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\obj\Debug\net6.0\RunScriptForTestingMaps.AssemblyInfo.cs
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\obj\Debug\net6.0\RunScriptForTestingMaps.csproj.CoreCompileInputs.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\obj\Debug\net6.0\RunScriptForTestingMaps.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\obj\Debug\net6.0\refint\RunScriptForTestingMaps.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\obj\Debug\net6.0\RunScriptForTestingMaps.pdb
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\obj\Debug\net6.0\RunScriptForTestingMaps.genruntimeconfig.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\RunScriptForTestingMaps\obj\Debug\net6.0\ref\RunScriptForTestingMaps.dll

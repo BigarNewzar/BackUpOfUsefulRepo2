@@ -1,0 +1,5 @@
+D:\year3sem1 stuff\COS30019\AI assignment1\TestingGround\AI_Assignment_version2.exe
+D:\year3sem1 stuff\COS30019\AI assignment1\TestingGround\AI_Assignment_version2.dll
+D:\year3sem1 stuff\COS30019\AI assignment1\TestingGround\AI_Assignment_version2.deps.json
+D:\year3sem1 stuff\COS30019\AI assignment1\TestingGround\AI_Assignment_version2.runtimeconfig.json
+D:\year3sem1 stuff\COS30019\AI assignment1\TestingGround\AI_Assignment_version2.pdb

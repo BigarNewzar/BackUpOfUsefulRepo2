@@ -1,0 +1,15 @@
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\bin\Debug\net6.0\AI Tute1 task.exe
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\bin\Debug\net6.0\AI Tute1 task.deps.json
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\bin\Debug\net6.0\AI Tute1 task.runtimeconfig.json
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\bin\Debug\net6.0\AI Tute1 task.dll
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\bin\Debug\net6.0\AI Tute1 task.pdb
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\obj\Debug\net6.0\AI Tute1 task.csproj.AssemblyReference.cache
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\obj\Debug\net6.0\AI Tute1 task.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\obj\Debug\net6.0\AI Tute1 task.AssemblyInfoInputs.cache
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\obj\Debug\net6.0\AI Tute1 task.AssemblyInfo.cs
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\obj\Debug\net6.0\AI Tute1 task.csproj.CoreCompileInputs.cache
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\obj\Debug\net6.0\AI Tute1 task.dll
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\obj\Debug\net6.0\refint\AI Tute1 task.dll
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\obj\Debug\net6.0\AI Tute1 task.pdb
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\obj\Debug\net6.0\AI Tute1 task.genruntimeconfig.cache
+D:\visual stuido 2022 repo\AI tute1 task\AI Tute1 task\AI Tute1 task\obj\Debug\net6.0\ref\AI Tute1 task.dll

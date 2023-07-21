@@ -1,0 +1,16 @@
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\bin\Debug\net6.0\AI_Assignment_1.exe
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\bin\Debug\net6.0\AI_Assignment_1.deps.json
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\bin\Debug\net6.0\AI_Assignment_1.runtimeconfig.json
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\bin\Debug\net6.0\AI_Assignment_1.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\bin\Debug\net6.0\AI_Assignment_1.pdb
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\obj\Debug\net6.0\AI_Assignment_1.csproj.AssemblyReference.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\obj\Debug\net6.0\AI_Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\obj\Debug\net6.0\AI_Assignment_1.AssemblyInfoInputs.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\obj\Debug\net6.0\AI_Assignment_1.AssemblyInfo.cs
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\obj\Debug\net6.0\AI_Assignment_1.csproj.CoreCompileInputs.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\obj\Debug\net6.0\AI_Assignment_1.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\obj\Debug\net6.0\refint\AI_Assignment_1.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\obj\Debug\net6.0\AI_Assignment_1.pdb
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\obj\Debug\net6.0\AI_Assignment_1.genruntimeconfig.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\obj\Debug\net6.0\ref\AI_Assignment_1.dll
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_1\bin\Debug\net6.0\Resources\MapFile.txt

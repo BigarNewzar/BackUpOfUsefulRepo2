@@ -1,0 +1,8 @@
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\ConsoleApp1\obj\Release\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\ConsoleApp1\bin\Release\search.exe.config
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\ConsoleApp1\bin\Release\search.exe
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\ConsoleApp1\bin\Release\search.pdb
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\ConsoleApp1\obj\Release\search.exe
+D:\visual stuido 2022 repo\AI assignment 1\AI_Assignment_V3\ConsoleApp1\obj\Release\search.pdb
