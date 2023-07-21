@@ -1,0 +1,4 @@
+TELL 
+c4 => y5; a1 => l3; c4 => z6; a2 => x6; i8 => y5; a1 & h4 & r6 & s8 & l3 & a2 & z6 & x6 &f5 => p8; h4 & l3 & l2 & r6 & c9 & f5 & y5 & i8 &s8 => c4; e1 & s8 & a6 & c4 & z6 & a2 & a1 & f5 &y5 => h6; h6 & e1 & c4 & f5 & r6 & h4 & p & l2 &y5 => c9; i8 & c4 & p & p8 & x6 & h3 & s8 & h6 &y5 => r6; p & h4 & i8 & r6 & y5 & a2 & z6 & c4 &p8 => l3; 
+ASK
+a6

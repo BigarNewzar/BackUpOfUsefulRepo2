@@ -1,0 +1,4 @@
+TELL 
+s => d1; r7 => d1; s => r7; m7 => w7; d1 => t7; u9 => c9; m7 => d1; y2 => m7; w7 => u9; s => r7; c9 => d1; c9 => m7; m7&r7 => y2; t7&m7 => r7; y2&c => d1; s&r7 => d1; y2&d1 => t7; t7&w7 => c9; a4&c9 => u9; y2&c9 => d1; u9&s => r7; y2&m7 => s; c&s => r7; a4&r7 => m7; t7&r7 => w7; t7&c => u9; u9&d1 => m7; y2&m7 => s; m7&d1 => w7; d1&c9 => s; t7&r7 => c9; u9&t7 => c9; c&r7 => m7; w7&m7 => c; a4&r7 => u9; m7&a4 => w7; d1&y2 => m7; d1&c9 => c; r7&w7 => t7; 
+ASK
+r7

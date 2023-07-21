@@ -1,0 +1,4 @@
+TELL 
+u4 => j3; u4 => z5; e5 => v9; u4 => e5; y8 => z5; b => y8; u4 => b; b => u4; y8 => j3; f2 => j3; k8&z5 => v9; z5&p1 => y8; y8&b => p1; f2&k8 => b; f2&u4 => z5; v9&b => p1; j3&b => p1; z5&p1 => j3; e5&k8 => v9; j3&f2 => p1; e5; k8; f2; z5; u4; b; v9; j3; p1; y8; 
+ASK
+j3

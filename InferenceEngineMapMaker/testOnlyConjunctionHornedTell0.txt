@@ -1,0 +1,4 @@
+TELL 
+v6&f2 => c9; v6&z3 => c9; f2&s4 => a2; v6&c9 => z3; a2&v6 => f2; v6&z3 => s4; f2&v6 => z3; c9&v6 => a2; a2&v6 => s4; s4&z3 => v6; z3&c9 => v6; s4&z3 => a2; s4&v6 => z3; f2&v6 => s4; s4&v6 => c9; f2&a2 => s4; s4&c9 => f2; a2&v6 => s4; a2&v6 => s4; a2&z3 => f2; c9&f2 => z3; s4&c9 => v6; a2&z3 => v6; f2&z3 => a2; z3&a2 => f2; c9&z3 => a2; v6&c9 => z3; 
+ASK
+z3

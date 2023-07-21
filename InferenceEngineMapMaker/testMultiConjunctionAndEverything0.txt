@@ -1,0 +1,4 @@
+TELL 
+t6 => q8; e4 & t6 & g1 & o4 & e4 & q8 & z1 & c3 &w8 => v5; v5 & z1 & q8 & w8 & e4 & c3 & g1 & e4 &t6 => o4; z1 & e4 & g1 & t6 & v5 & o4 & w8 & c3 &e4 => q8; c3 & o4 & w8 & z1 & q8 & v5 & e4 & t6 &g1 => e4; e4 & w8 & o4 & c3 & q8 & g1 & t6 & e4 &v5 => z1; e4 & t6 & e4 & q8 & w8 & g1 & v5 & o4 &z1 => c3; e4 & w8 & q8 & z1 & o4 & e4 & g1 & t6 &c3 => v5; c3 & q8 & e4 & e4 & w8 & t6 & o4 & z1 &v5 => g1; q8 & w8 & e4 & g1 & z1 & c3 & v5 & t6 &e4 => o4; c3 & w8 & g1 & t6 & z1 & o4 & e4 & e4 &q8 => v5; w8 & z1 & c3 & v5 & e4 & q8 & g1 & o4 &t6 => e4; v5 & e4 & w8 & o4 & e4 & z1 & q8 & c3 &g1 => t6; z1 & c3 & q8 & e4 & o4 & t6 & g1 & v5 &w8 => e4; t6 & e4 & z1 & e4 & q8 & o4 & g1 & c3 &v5 => w8; c3 & q8 & e4 & z1 & g1 & t6 & w8 & e4 &o4 => v5; o4 & q8 & g1 & c3 & e4 & t6 & v5 & z1 &e4 => w8; 
+ASK
+g1

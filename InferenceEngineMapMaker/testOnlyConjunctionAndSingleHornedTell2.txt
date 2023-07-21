@@ -1,0 +1,4 @@
+TELL 
+c5 => n3; c5 => i8; c2 => n; s3 => i9; c5 => i9; s3 => c5; n3 => i9; q => i8; s3 => c5; s3 => n2; q => c2; i9 => n2; c2 => i8; i8&q => n3; c5&i9 => n3; n3&n2 => i9; n2&n3 => q; n&i8 => n3; 
+ASK
+n2

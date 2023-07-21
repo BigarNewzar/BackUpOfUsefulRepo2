@@ -1,0 +1,4 @@
+TELL 
+k => x7; f => q4; r8 => x7; r8 => y8; d3&n8 => l; k1&q4 => v2; n8&f => x2; x7&k1 => l; n5&x2 => n2; y8&d3 => k1; y8&r8 => r7; n2&q4 => n8; v2&x2 => r7; k1&y8 => y8; q4&r8 => r7; n2&v2 => l; y8&q4 => k1; x2&r7 => k; x7&r8 => k1; 
+ASK
+s7

@@ -1,0 +1,4 @@
+TELL 
+d9; q1; o2; q1; w5; q2; v6; n; y6; b; n7; v7; f8; z3; v8; y; f4; f9; q8; l1; 
+ASK
+n

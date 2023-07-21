@@ -1,0 +1,4 @@
+TELL 
+j2 => m8; m8 => j2; v4 => m8; e1 => k6; q4 => v1; b6 => j2; j => m8; e1 => k6; b6 => k6; q4 => v4; v1 => g7; j2 => e1; v4 => v1; m8 => j; b6 => v1; k6 => j2; v1 => v4; m8 => j2; k6 => v1; g7 => m8; e1 => g7; e1 => k6; j => q4; j2 => g7; q4 => j; m8 => k6; m8&j => v1; m8&v1 => g7; b6&k6 => j2; m8&v4 => q4; k6&g7 => m8; k6&j => v1; e1&k6 => v4; k6&e1 => m8; k6&j => b6; k6&g7 => b6; q4&e1 => b6; m8&b6 => v4; v1&e1 => v4; g7&j2 => v4; m8&j2 => k6; m8&b6 => q4; e1&j => q4; j2&k6 => j; k6&v1 => q4; m8&v4 => v1; g7&j2 => v4; g7&q4 => v4; b6&j2 => e1; e1&b6 => v4; q4&k6 => e1; v1&e1 => j2; k6&j2 => g7; 
+ASK
+j2

@@ -1,0 +1,4 @@
+TELL 
+c7 => n2; p => j6; b6 => c7; n2&b6 => p; j6&n2 => c7; p&n2 => c7; c7&b6 => p; p&a6 => n2; p&c7 => n2; p&j6 => b6; c7&j6 => b6; p&a6 => b6; a6&j6 => c7; a6&c7 => b6; b6&a6 => j6; c7&j6 => b6; p&a6 => n2; a6&c7 => j6; b6&c7 => j6; p&j6 => c7; c7&a6 => n2; c7&j6 => b6; a6&n2 => c7; b6&j6 => n2; n2&p => c7; c7&j6 => b6; b6&n2 => c7; a6&p => n2; p&j6 => b6; j6&a6 => b6; j6&c7 => n2; 
+ASK
+n2

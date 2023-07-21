@@ -1,0 +1,4 @@
+TELL 
+l1&h1 => o9; d1&h1 => r4; r4&d1 => r4; d1&w9 => y9; w9&o8 => o9; h1&y9 => r4; n2&h1 => o9; w9&d1 => o8; h1&n2 => h1; r4&h1 => h1; n2&o9 => o8; y9&n2 => r4; l1&o9 => r4; r4&l1 => w9; y9&w9 => l1; l1&r4 => o9; n2&h1 => o8; d1&l1 => n2; h1&l1 => h1; o9&r4 => l1; o9&h1 => n2; n2&r4 => r4; h1; h1; w9; o9; n2; d1; l1; y9; o8; r4; r4; 
+ASK
+y9
